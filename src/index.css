@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* body{
+    padding-top: 0em;
+    width: 100%;
+} */
+a{
+    text-decoration: none !important;
+    color: black;
+}
+#__EDDY_TRAVELS_CHAT_OPEN_BUTTON:hover{
+    transform: scale(1.2);
+  }
+  path:hover{
+    fill: rgb(232, 156, 211);
+    
+     /* border:5px solid blue; */
+   }
